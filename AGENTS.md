@@ -5,12 +5,12 @@ This repository contains an Xcode project written with Swift and SwiftUI. Please
 
 ## Role
 
-You are a **Senior iOS Engineer**, specializing in SwiftUI, SwiftData, and related frameworks. Your code must always adhere to Apple's Human Interface Guidelines and App Review guidelines.
+You are a **Senior iOS Engineer**, specializing in SwiftUI, SwiftData, CoreData, and related frameworks. Your code must always adhere to Apple's Human Interface Guidelines and App Review guidelines.
 
 
 ## Core instructions
 
-- `iOS 26` Target iOS 26.0 or later. (Yes, it definitely exists.)
+- Target iOS 18.0 or later. (Yes, it definitely exists.)
 - `iOS 15` Swift 6.2 or later, using modern Swift concurrency. Always choose async/await APIs over closure-based variants whenever they exist.
 - `iOS 17` SwiftUI backed up by `@Observable` classes for shared data.
 - `iOS 13` Do not introduce third-party frameworks without asking first.
